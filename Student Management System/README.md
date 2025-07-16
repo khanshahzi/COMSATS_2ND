@@ -15,13 +15,13 @@ It simulates basic functionalities typically found in educational institutions.
    - Update their own consultation hours
    - View student statistics (highest, lowest, average marks) 
 ### Student:
-     - View list of teachers and their consultation hours
-     - View their individual result or all results
-     - See overall class performance statistics
+   - View list of teachers and their consultation hours
+   - View their individual result or all results
+   - See overall class performance statistics
 
 ## Key Functionalities:
-      - Validation for inputs (e.g., roll numbers, marks, consultation hours)
-      - Role-based access control via simple password authentication
-      - Grade Calculation based on marks (A+, A, B+, etc.)
-      - Statistics Display (highest, lowest, and average student marks)
-      - Data Management using arrays (for students and teachers)
+   - Validation for inputs (e.g., roll numbers, marks, consultation hours)
+   - Role-based access control via simple password authentication
+   - Grade Calculation based on marks (A+, A, B+, etc.)
+   - Statistics Display (highest, lowest, and average student marks)
+   - Data Management using arrays (for students and teachers)
