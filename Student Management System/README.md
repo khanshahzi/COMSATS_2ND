@@ -9,12 +9,11 @@ It simulates basic functionalities typically found in educational institutions.
    - View all teachers and their availability
 
 ### Teacher:
-    - Login via secure password (khan804)
-    - Add new students with roll number, name, and marks
-    - View, update, or delete student records
-    - Update their own consultation hours
-    - View student statistics (highest, lowest, average marks)
-    
+   - Login via secure password (khan804)
+   - Add new students with roll number, name, and marks
+   - View, update, or delete student records
+   - Update their own consultation hours
+   - View student statistics (highest, lowest, average marks) 
 ### Student:
      - View list of teachers and their consultation hours
      - View their individual result or all results
