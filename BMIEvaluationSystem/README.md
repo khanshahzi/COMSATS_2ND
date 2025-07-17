@@ -7,5 +7,6 @@ It then uses if-else conditions to classify the BMI result into one of the follo
 - Normal
 - Overweight
 - Obese
+
 This project is ideal for beginners learning Java input handling, basic math operations, and conditional statements.
 
