@@ -1,4 +1,4 @@
-# Java Mini Projects – Beginner to Intermediate
+# Hands-On Java Projects for Beginners
 This repository contains a collection of small Java programs categorized by difficulty.
 Each program demonstrates core Java concepts such as conditionals, user input, and logic development.
 ## Easy
@@ -37,5 +37,4 @@ Takes marks as input and assigns a grade based on predefined score ranges.
 ### Key Concepts:
 - else-if ladder
 - Range-based conditions
-
-Input validation (basic)
+- Input validation (basic)
